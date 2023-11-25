@@ -23,6 +23,8 @@
 
 ## 2)¿Cuáles son los 7 productos que mas ganancias mostraron durante todo el período?
 
+![¿Cuáles son los 7 productos que mas ganancias mostraron durante todo el período?](https://drive.google.com/file/d/1yTAZ8i-35HAl4gyBUR6FA6n0Vaq5izAi/view?usp=sharing)
+
 #### Objetivo
 
 Visualizar los productos con mayor ganancia (2019-2022) y destacar la contribución significativa de los productos electrónicos y de limpieza.
@@ -40,6 +42,8 @@ El código proporciona un gráfico de barras horizontales que muestra la gananci
 
 ## 3) Si separamos las ventas totales por año y por regiones , ¿Qué insight podemos obtener de las ventas?
 
+![Si separamos las ventas totales por año y por regiones , ¿Qué insight podemos obtener de las ventas?](https://drive.google.com/file/d/1c4Tv3MB-FWKaasoe7mwWQMPCCHk0YeIk/view?usp=sharing)
+
 #### Objetivo: Visualizar las ventas totales por año y región, destacando las dos regiones con mayor proporción de ventas.
 
 #### Utiliza colores distintivos y muestra el total de ventas por región y año.
@@ -52,6 +56,8 @@ El código proporciona un gráfico de barras horizontales que muestra la gananci
 - Destaca las dos regiones con mayor proporción de ventas y muestra sus porcentajes.
 
 ## 4) ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
+
+![¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?](https://drive.google.com/file/d/1nZ64y4hZ8wO-3uQbQhFgwdF9myZtUPDx/view?usp=sharing)
 
 #### Objetivo: Analizar y visualizar el método de envío más utilizado por los clientes B2B/B2C (2019-2022).
 
@@ -68,6 +74,8 @@ El gráfico muestra que el método de entrega estándar es el preferido por los 
 
 ## 5) ¿Cuáles son las ventas totales por trimestre en el estado de São Paulo?
 
+![¿Cuáles son las ventas totales por trimestre en el estado de São Paulo?](https://drive.google.com/file/d/1Sk-UG-xRYZomZ-YnkqSQQ398JLO-WCZz/view?usp=sharing)
+
 #### Objetivo: Visualizar las ventas por trimestre en el estado de São Paulo (2019-2022) con énfasis en el cuarto trimestre.
 
 #### Características Clave:
@@ -82,6 +90,8 @@ El gráfico muestra que el método de entrega estándar es el preferido por los 
 El gráfico muestra claramente las ventas por trimestre en São Paulo, con un énfasis especial en el cuarto trimestre de cada año. El formato limpio y las etiquetas mejoran la presentación visual.
 
 ## 6) ¿Qué día de la semana se generan mas pedidos?
+
+![¿Qué día de la semana se generan mas pedidos?](https://drive.google.com/file/d/1ggqO7OlJPTek7YqfmggGlNNFO2tPOPwA/view?usp=sharing)
 
 #### Objetivo: Visualizar la cantidad de pedidos por día de la semana y resaltar el día con menos pedidos.
 
