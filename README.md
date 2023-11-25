@@ -10,7 +10,7 @@
 
 ## Pregunta 1) ¿Cuáles son las ventas totales por año?¿Y que año tuvo mejor desempeño?
 
-![¿Cuáles son las ventas totales por año?¿Y que año tuvo mejor desempeño?](https://drive.google.com/file/d/1Dtns2a4sNHw5MmUdMXEJrMdMaYLmQaCk/view?usp=sharing)
+![¿Cuáles son las ventas totales por año?¿Y que año tuvo mejor desempeño?](https://drive.google.com/uc?id=1Dtns2a4sNHw5MmUdMXEJrMdMaYLmQaCk&export=view)
 
 #### Objetivo: Visualizar las ventas totales por año (2019-2022) y resaltar el aumento porcentual en las ventas de 2022 respecto a 2021.
 
@@ -23,7 +23,7 @@
 
 ## 2)¿Cuáles son los 7 productos que mas ganancias mostraron durante todo el período?
 
-![¿Cuáles son los 7 productos que mas ganancias mostraron durante todo el período?](https://drive.google.com/file/d/1Dtns2a4sNHw5MmUdMXEJrMdMaYLmQaCk/view?usp=drive_link)
+![¿Cuáles son los 7 productos que mas ganancias mostraron durante todo el período?](https://drive.google.com/uc?id=1r_cpslgo5S0H29Y2w4QzI1TMh2fJsjGl&export=view)
 
 #### Objetivo
 
@@ -42,7 +42,7 @@ El código proporciona un gráfico de barras horizontales que muestra la gananci
 
 ## 3) Si separamos las ventas totales por año y por regiones , ¿Qué insight podemos obtener de las ventas?
 
-![Si separamos las ventas totales por año y por regiones , ¿Qué insight podemos obtener de las ventas?](https://drive.google.com/file/d/1c4Tv3MB-FWKaasoe7mwWQMPCCHk0YeIk/view?usp=sharing)
+![Si separamos las ventas totales por año y por regiones , ¿Qué insight podemos obtener de las ventas?](https://drive.google.com/uc?id=1N7MfEKcbY6M4J-_qM0ktbZfUOHnEQoWi&export=view)
 
 #### Objetivo: Visualizar las ventas totales por año y región, destacando las dos regiones con mayor proporción de ventas.
 
@@ -57,7 +57,7 @@ El código proporciona un gráfico de barras horizontales que muestra la gananci
 
 ## 4) ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
 
-![¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?](imagenes/1.jpg)
+![¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?](https://drive.google.com/uc?id=1ISVuRnoXYliQyfjWGY5tYlPOSlXUDMY4&export=view)
 
 #### Objetivo: Analizar y visualizar el método de envío más utilizado por los clientes B2B/B2C (2019-2022).
 
@@ -74,7 +74,7 @@ El gráfico muestra que el método de entrega estándar es el preferido por los 
 
 ## 5) ¿Cuáles son las ventas totales por trimestre en el estado de São Paulo?
 
-![¿Cuáles son las ventas totales por trimestre en el estado de São Paulo?](https://drive.google.com/file/d/1Sk-UG-xRYZomZ-YnkqSQQ398JLO-WCZz/view?usp=sharing)
+![¿Cuáles son las ventas totales por trimestre en el estado de São Paulo?](https://drive.google.com/uc?id=1k3bnYyKuFYbRpccyd57MAVnVttV07oBD&export=view)
 
 #### Objetivo: Visualizar las ventas por trimestre en el estado de São Paulo (2019-2022) con énfasis en el cuarto trimestre.
 
@@ -91,7 +91,7 @@ El gráfico muestra claramente las ventas por trimestre en São Paulo, con un é
 
 ## 6) ¿Qué día de la semana se generan mas pedidos?
 
-![¿Qué día de la semana se generan mas pedidos?](https://drive.google.com/file/d/1ggqO7OlJPTek7YqfmggGlNNFO2tPOPwA/view?usp=sharing)
+![¿Qué día de la semana se generan mas pedidos?](https://drive.google.com/uc?id=1MJtcLUA0shQLuLPo2fX8Oo8tn1rODnzY&export=view)
 
 #### Objetivo: Visualizar la cantidad de pedidos por día de la semana y resaltar el día con menos pedidos.
 
