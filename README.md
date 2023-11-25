@@ -57,7 +57,7 @@ El código proporciona un gráfico de barras horizontales que muestra la gananci
 
 ## 4) ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
 
-![¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?](https://drive.google.com/file/d/1nZ64y4hZ8wO-3uQbQhFgwdF9myZtUPDx/view?usp=sharing)
+![¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?](https://drive.google.com/file/d/1Dtns2a4sNHw5MmUdMXEJrMdMaYLmQaCk/view?usp=sharing)
 
 #### Objetivo: Analizar y visualizar el método de envío más utilizado por los clientes B2B/B2C (2019-2022).
 
