@@ -10,7 +10,7 @@
 
 ## Pregunta 1) ¿Cuáles son las ventas totales por año?¿Y que año tuvo mejor desempeño?
 
-![¿Cuáles son las ventas totales por año?¿Y que año tuvo mejor desempeño?](1.jpg)
+![¿Cuáles son las ventas totales por año?¿Y que año tuvo mejor desempeño?](https://drive.google.com/file/d/1Dtns2a4sNHw5MmUdMXEJrMdMaYLmQaCk/view?usp=sharing)
 
 #### Objetivo: Visualizar las ventas totales por año (2019-2022) y resaltar el aumento porcentual en las ventas de 2022 respecto a 2021.
 
