@@ -23,7 +23,7 @@
 
 ## 2)¿Cuáles son los 7 productos que mas ganancias mostraron durante todo el período?
 
-![¿Cuáles son los 7 productos que mas ganancias mostraron durante todo el período?](https://drive.google.com/file/d/1yTAZ8i-35HAl4gyBUR6FA6n0Vaq5izAi/view?usp=sharing)
+![¿Cuáles son los 7 productos que mas ganancias mostraron durante todo el período?](https://drive.google.com/file/d/1Dtns2a4sNHw5MmUdMXEJrMdMaYLmQaCk/view?usp=sharing)
 
 #### Objetivo
 
