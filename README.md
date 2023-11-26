@@ -4,15 +4,15 @@ output: pdf_document
 
 # **Supermarket Sales Analysis**
 
-##  Configuración del Ambiente
+## Configuración del Ambiente
 
--   Verificación del entorno y liberías básicas.
+- Verificación del entorno y liberías básicas.
 
 ## Obtención de Datos
 
--   Realizar la limpieza y preprocesamiento de datos en el DataFrame df_ventas.
+- Realizar la limpieza y preprocesamiento de datos en el DataFrame df_ventas.
 
-##  1) ¿Cuáles son las ventas totales por año?¿Y que año tuvo mejor desempeño?
+## 1) ¿Cuáles son las ventas totales por año?¿Y que año tuvo mejor desempeño?
 
 ![](https://drive.google.com/uc?id=1Dtns2a4sNHw5MmUdMXEJrMdMaYLmQaCk&export=view)
 
@@ -20,10 +20,10 @@ output: pdf_document
 
 #### Características Clave:
 
--   Gráfico de barras verticales que muestra las ventas totales por año.
--   Etiquetas de valor en formato de dólar sobre cada barra.
--   Destaca el aumento porcentual en las ventas de 2022 comparado con 2021.
--   Uso de colores distintivos para mejorar la presentación visual.
+- Gráfico de barras verticales que muestra las ventas totales por año.
+- Etiquetas de valor en formato de dólar sobre cada barra.
+- Destaca el aumento porcentual en las ventas de 2022 comparado con 2021.
+- Uso de colores distintivos para mejorar la presentación visual.
 
 ## 2)¿Cuáles son los 7 productos que mas ganancias mostraron durante todo el período?
 
@@ -39,10 +39,10 @@ El código proporciona un gráfico de barras horizontales que muestra la gananci
 
 #### Características Clave
 
--   Gráfico de barras horizontales.
--   Etiquetas de valor en dólares dentro de cada barra.
--   Destaca los productos más rentables de los departamentos de electrónicos y productos de limpieza.
--   Uso de colores distintivos para mejorar la presentación visual.
+- Gráfico de barras horizontales.
+- Etiquetas de valor en dólares dentro de cada barra.
+- Destaca los productos más rentables de los departamentos de electrónicos y productos de limpieza.
+- Uso de colores distintivos para mejorar la presentación visual.
 
 ## 3) Si separamos las ventas totales por año y por regiones , ¿Qué insight podemos obtener de las ventas?
 
@@ -54,10 +54,10 @@ El código proporciona un gráfico de barras horizontales que muestra la gananci
 
 #### Características Clave:
 
--   Gráfico de barras apiladas para mostrar las ventas totales por año y región.
--   Etiquetas que indican el total de ventas por región y año.
--   Leyenda desplazada a la derecha para facilitar la lectura.
--   Destaca las dos regiones con mayor proporción de ventas y muestra sus porcentajes.
+- Gráfico de barras apiladas para mostrar las ventas totales por año y región.
+- Etiquetas que indican el total de ventas por región y año.
+- Leyenda desplazada a la derecha para facilitar la lectura.
+- Destaca las dos regiones con mayor proporción de ventas y muestra sus porcentajes.
 
 ## 4) ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
 
@@ -67,10 +67,10 @@ El código proporciona un gráfico de barras horizontales que muestra la gananci
 
 #### Características Clave:
 
--   Gráfico de barras horizontales que compara el uso de los métodos de envío B2B y B2C.
--   Etiquetas con valores numéricos en el centro de cada barra.
--   Información adicional destacada sobre el método de envío preferido.
--   Uso de colores distintivos para mejorar la presentación visual.
+- Gráfico de barras horizontales que compara el uso de los métodos de envío B2B y B2C.
+- Etiquetas con valores numéricos en el centro de cada barra.
+- Información adicional destacada sobre el método de envío preferido.
+- Uso de colores distintivos para mejorar la presentación visual.
 
 #### Resultado:
 
@@ -84,10 +84,10 @@ El gráfico muestra que el método de entrega estándar es el preferido por los 
 
 #### Características Clave:
 
--   Gráfico de línea con marcadores para resaltar el cuarto trimestre de cada año.
--   Leyenda en la parte superior izquierda indicando el intervalo de los valores y el estado.
--   Etiquetas personalizadas y formato limpio para mejorar la legibilidad.
--   Información destacada sobre los valores del cuarto trimestre.
+- Gráfico de línea con marcadores para resaltar el cuarto trimestre de cada año.
+- Leyenda en la parte superior izquierda indicando el intervalo de los valores y el estado.
+- Etiquetas personalizadas y formato limpio para mejorar la legibilidad.
+- Información destacada sobre los valores del cuarto trimestre.
 
 #### Resultado:
 
@@ -101,10 +101,10 @@ El gráfico muestra claramente las ventas por trimestre en São Paulo, con un é
 
 #### Características Clave:
 
--   Gráfico de barras horizontales con colores distintivos para cada día de la semana.
--   Etiquetas dentro de las barras para indicar la cantidad de pedidos.
--   Enfatizar el día con menos pedidos con un texto adicional.
--   Leyenda con información sobre el día con menos pedidos.
+- Gráfico de barras horizontales con colores distintivos para cada día de la semana.
+- Etiquetas dentro de las barras para indicar la cantidad de pedidos.
+- Enfatizar el día con menos pedidos con un texto adicional.
+- Leyenda con información sobre el día con menos pedidos.
 
 #### Resultado:
 
@@ -114,41 +114,41 @@ El gráfico muestra la distribución de pedidos por día de la semana, resaltand
 
 #### Características Clave:
 
--   Resumen de las visualizaciones realizadas.
--   Destacar patrones o tendencias observadas.
--   Proporcionar información relevante sobre los datos de ventas.
+- Resumen de las visualizaciones realizadas.
+- Destacar patrones o tendencias observadas.
+- Proporcionar información relevante sobre los datos de ventas.
 
 #### Conclusiones:
 
 1.  **Ventas Totales por Año:**
 
-    -   El gráfico de barras muestra una tendencia positiva en las ventas de 2019 a 2022.
-    -   Un aumento significativo se destaca de 2021 a 2022.
+    - El gráfico de barras muestra una tendencia positiva en las ventas de 2019 a 2022.
+    - Un aumento significativo se destaca de 2021 a 2022.
 
 2.  **Análisis de Ganancias por Tipo de Producto:**
 
-    -   El análisis detallado de las ganancias por tipo de producto revela que los electrónicos son los más rentables, seguidos de cerca por los productos de limpieza.
-    -   El departamento de electrónicos tiene cuatro productos que son destacados en términos de generación de ganancias, siendo los principales impulsores del rendimiento financiero.
+    - El análisis detallado de las ganancias por tipo de producto revela que los electrónicos son los más rentables, seguidos de cerca por los productos de limpieza.
+    - El departamento de electrónicos tiene cuatro productos que son destacados en términos de generación de ganancias, siendo los principales impulsores del rendimiento financiero.
 
 3.  **Ventas por Año y Región:**
 
-    -   Se observa un aumento general de las ventas a lo largo de los años.
-    -   La región Sureste es consistentemente la de mayores ventas, seguida por el Noreste y el Centro-Oeste.
+    - Se observa un aumento general de las ventas a lo largo de los años.
+    - La región Sureste es consistentemente la de mayores ventas, seguida por el Noreste y el Centro-Oeste.
 
 4.  **Modo de Envío más Utilizado:**
 
-    -   La entrega estándar es el método preferido, representando el 59% de los pedidos.
-    -   No hay una diferencia significativa entre segmentos B2B y B2C.
+    - La entrega estándar es el método preferido, representando el 59% de los pedidos.
+    - No hay una diferencia significativa entre segmentos B2B y B2C.
 
 5.  **Ventas Trimestrales en São Paulo:**
 
-    -   Las ventas muestran variaciones trimestrales, con un aumento notorio en el cuarto trimestre de cada año.
-    -   Se destaca un crecimiento general en el periodo analizado.
+    - Las ventas muestran variaciones trimestrales, con un aumento notorio en el cuarto trimestre de cada año.
+    - Se destaca un crecimiento general en el periodo analizado.
 
 6.  **Pedidos por Día de la Semana:**
 
-    -   Se presenta un gráfico de barras horizontales que muestra la distribución de pedidos por día de la semana.
-    -   Miércoles es el día con menos pedidos, representando solo el 5.8% del total.
+    - Se presenta un gráfico de barras horizontales que muestra la distribución de pedidos por día de la semana.
+    - Miércoles es el día con menos pedidos, representando solo el 5.8% del total.
 
 **Código completo en:**
 
@@ -164,4 +164,5 @@ Las visualizaciones proporcionan una comprensión clara y detallada de los datos
 
 ## Agradecimientos especiales:
 
--   **Alejandro Gamarra:** Instructor del Bootcamp.
+- **Alejandro Gamarra:** Instructor del Bootcamp.
+- **Silvia Branco:** Especialista en Recursos Humanos.
